@@ -17,8 +17,7 @@ public class namePrint {
       
   System.out.println(c);
       
-      
-      System.out.println("Hello");
+   
      
 		
 	}
